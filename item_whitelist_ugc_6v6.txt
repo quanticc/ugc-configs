@@ -1,8 +1,8 @@
-// Whitelist generated at Sat, 10 Sep 2016 23:43:35 +0200
-// Custom Whitelist ID: 6330
+// Whitelist generated at Tue, 20 Sep 2016 00:24:18 +0200
+// Whitelist: UGC 6v6 (Season 22) (ID: 6356)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/6330
+//	http://whitelist.tf/ugc_6v6_s22
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -18,6 +18,7 @@
 
 // Blocked weapons for Multiple classes
 // - Secondary
+//  * B.A.S.E. Jumper
 //  * Reserve Shooter
 
 // Blocked weapons for Scout
@@ -29,6 +30,7 @@
 //  * Flying Guillotine
 //  * Mad Milk
 // - Melee
+//  * Atomizer
 //  * Sandman
 
 // Blocked weapons for Soldier
@@ -67,17 +69,15 @@
 {
 	"unlisted_items_default_to"		"0"
 
-	//---------------- Allowed weapons (Total: 108) -----------------\\
+	//---------------- Allowed weapons (Total: 106) -----------------\\
 	//______________________ Multiple classes _______________________\\
 	"Panic Attack Shotgun"						"1"
-	"The B.A.S.E. Jumper"						"1"
 	"The Half-Zatoichi"						"1"
 	"The Pain Train"						"1"
 	//____________________________ Scout ____________________________\\
 	"Baby Face's Blaster"						"1"
 	"Pretty Boy's Pocket Pistol"					"1"
 	"Sun-on-a-Stick"						"1"
-	"The Atomizer"							"1"
 	"The Back Scatter"						"1"
 	"The Boston Basher"						"1"
 	"The Candy Cane"						"1"
@@ -507,8 +507,9 @@
 	"warbird_knife_blitzkrieg"					"1"
 	"warbird_revolver_blitzkrieg"					"1"
 
-	//------------- Blocked weapons/reskins (Total: 29) -------------\\
+	//------------- Blocked weapons/reskins (Total: 31) -------------\\
 	//______________________ Multiple classes _______________________\\
+	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
 	"Bonk! Atomic Punch"						"0"
@@ -517,6 +518,7 @@
 	"Mad Milk"							"0"
 	"Mutated Milk"							"0"
 	"Promo Flying Guillotine"					"0"
+	"The Atomizer"							"0"
 	"The Flying Guillotine"						"0"
 	"The Sandman"							"0"
 	"The Soda Popper"						"0"

@@ -2,7 +2,7 @@
 // Whitelist: UGC Highlander (Season 20) (ID: 6421)
 
 // Share or view this whitelist:
-//	http://whitelist.tf/ugc_9v9_s20
+// http://whitelist.tf/ugc_9v9_s20
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
