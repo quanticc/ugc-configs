@@ -1,10 +1,10 @@
 // UGC 4v4 Whitelist
-// Updated: September 19, 2016 by .blazingboy
+// Updated: September 22, 2016 by .blazingboy
 // --------------------------------------------------------------------------
 
 "item_whitelist"
 {
-// Paramater for unlisted items, such as newly released items not yet listed.
+// Paramater for unlisted items, such as newly released items not yet listed.\\
 "unlisted_items_default_to" "0"
 
 //------------------- Blocked weapons/reskins -------------------\\
@@ -71,7 +71,7 @@
 "The Burning Bongos"											"0"
 "The Infernal Orchestrina"										"0"
 "The Lollichop"													"0"
-"The Rainblower"	
+"The Rainblower"												"0"
 
 //------- Blocked Noise making/Explosion on death miscs ---------\\
 "Bombinomicon"													"0"
@@ -1433,7 +1433,7 @@
 "AU Highlander Community League Participant Season 1"			"1"
 "AU Highlander Community League Second Place Season 1"			"1"
 "AU Highlander Community League Third Place Season 1"			"1"
-"Awesomenauts Badge"											"1"	
+"Awesomenauts Badge"											"1"
 "Batbelt"														"1"
 "Batter's Bracers"												"1"
 "BETA LAN 1st Place Medal 2014"									"1"
@@ -1666,7 +1666,7 @@
 "ETF2L 6v6 High Gold Medal Season 20"							"1"
 "ETF2L 6v6 High Gold Medal Season 21"							"1"
 "ETF2L 6v6 High Gold Medal Season 22"							"1"
-"ETF2L 6v6 High Gold Medal Season 23"							"1"	
+"ETF2L 6v6 High Gold Medal Season 23"							"1"
 "ETF2L 6v6 High Participation Medal Season 20"					"1"
 "ETF2L 6v6 High Participation Medal Season 21"					"1"
 "ETF2L 6v6 High Participation Medal Season 22"					"1"
@@ -1678,7 +1678,7 @@
 "ETF2L 6v6 High Silver Medal Season 20"							"1"
 "ETF2L 6v6 High Silver Medal Season 21"							"1"
 "ETF2L 6v6 High Silver Medal Season 22"							"1"
-"ETF2L 6v6 High Silver Medal Season 23"							"1"		
+"ETF2L 6v6 High Silver Medal Season 23"							"1"
 "ETF2L 6v6 Mid Bronze Medal Season 20"							"1"
 "ETF2L 6v6 Mid Bronze Medal Season 21"							"1"
 "ETF2L 6v6 Mid Bronze Medal Season 22"							"1"
@@ -1895,7 +1895,7 @@
 "ETF2L Highlander Mid Participation Medal Season 10"			"1"
 "ETF2L Highlander Mid Participation Medal Season 8"				"1"
 "ETF2L Highlander Mid Participation Medal Season 9"				"1"
-"ETF2L Highlander Mid Playoff Medal Season 10"					"1
+"ETF2L Highlander Mid Playoff Medal Season 10"					"1"
 "ETF2L Highlander Mid Playoff Medal Season 8"					"1"
 "ETF2L Highlander Mid Playoff Medal Season 9"					"1"
 "ETF2L Highlander Mid Silver Medal Season 10"					"1"
@@ -2956,7 +2956,7 @@
 "dec2014 medic_unknown_mann"									"1"
 "Der Wintermantel"												"1"
 "Doc's Holiday"													"1"
-"Mecha-Medes"													"1"	
+"Mecha-Medes"													"1"
 "Medic Goggles"													"1"
 "Medical Monarch"												"1"
 "Pocket Heavy"													"1"
@@ -3648,25 +3648,6 @@
 	"Festive Collector Recipe 2013"  								"1"
 	"Rebuild Strange Weapon Recipe"  								"1"
 	"Cosmetic Strangifier Recipe 3"  								"1"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
