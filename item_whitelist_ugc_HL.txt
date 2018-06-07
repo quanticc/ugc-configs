@@ -1,8 +1,8 @@
-// Whitelist generated at Wed, 16 May 2018 01:45:13 +0200
-// Custom Whitelist ID: 8838
+// Whitelist generated at Wed, 6 June 2018 
+// UGC HIGHLANDER LEAGUE www.ugcleague.com
 
 // Share or view this whitelist:
-//	http://whitelist.tf/8838
+//http://whitelist.tf/item_whitelist_ugc_HL.txt
 
 // New items added to the game are: NOT allowed
 // Hats are: allowed
@@ -24,6 +24,10 @@
 // - Primary
 //  * Air Strike
 
+// Blocked weapons for Engineer
+// - Secondary
+//  * The Short Circuit
+
 // Blocked weapons for Sniper
 // - Primary
 //  * Machina
@@ -31,6 +35,7 @@
 // Blocked weapons for Spy
 // - Secondary
 //  * Diamondback
+
 
 "item_whitelist"
 {
@@ -136,7 +141,7 @@
 	"The Jag"							"1"
 	"The Pomson 6000"						"1"
 	"The Rescue Ranger"						"1"
-	"The Short Circuit"						"1"
+	
 	"The Southern Hospitality"					"1"
 	"The Widowmaker"						"1"
 	"The Wrangler"							"1"
